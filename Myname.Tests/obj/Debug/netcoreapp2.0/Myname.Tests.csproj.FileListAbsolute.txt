@@ -1,0 +1,15 @@
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.Tests.deps.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.Tests.runtimeconfig.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.Tests.runtimeconfig.dev.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.Tests.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.Tests.pdb
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/bin/Debug/netcoreapp2.0/Myname.pdb
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/obj/Debug/netcoreapp2.0/Myname.Tests.csproj.CoreCompileInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/obj/Debug/netcoreapp2.0/Myname.Tests.AssemblyInfoInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/obj/Debug/netcoreapp2.0/Myname.Tests.AssemblyInfo.cs
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/obj/Debug/netcoreapp2.0/Myname.Tests.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname.Tests/obj/Debug/netcoreapp2.0/Myname.Tests.pdb

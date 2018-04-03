@@ -1,0 +1,8 @@
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/bin/Debug/netstandard2.0/Myname.deps.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/bin/Debug/netstandard2.0/Myname.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/bin/Debug/netstandard2.0/Myname.pdb
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/obj/Debug/netstandard2.0/Myname.csproj.CoreCompileInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/obj/Debug/netstandard2.0/Myname.AssemblyInfoInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/obj/Debug/netstandard2.0/Myname.AssemblyInfo.cs
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/obj/Debug/netstandard2.0/Myname.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/obj/Debug/netstandard2.0/Myname.pdb
