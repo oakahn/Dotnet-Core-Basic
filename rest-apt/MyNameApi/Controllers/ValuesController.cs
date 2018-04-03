@@ -4,10 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using System.Dynamic;
+using Myname;
 
 namespace MyNameApi.Controllers
 {
-    
+
     [Route("api/[controller]")]
     public class NameController : Controller
     {
@@ -15,8 +16,9 @@ namespace MyNameApi.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-             dynamic obj = new ExpandoObject();
-            obj.name = "Watch me";
+            Name name = new Name();
+            dynamic obj = new ExpandoObject();
+            obj.name = name.Get();
             return Ok(obj);
 
         }

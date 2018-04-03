@@ -1,6 +1,5 @@
-using System;
 
-namespace Myname {
+namespace Todsphol.Myname {
    public class YourNames {
         public string Get() {
             return "Jin";

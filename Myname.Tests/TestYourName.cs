@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Myname.Tests
+namespace Todsphol.Myname.Tests
 {
     public class TestYourName
     {
@@ -20,7 +20,7 @@ namespace Myname.Tests
             //Give
             //When
             //Then
-            
+
         }
     }
 }

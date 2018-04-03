@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Myname.Tests
+namespace Todsphol.Myname.Tests
 {
     public class TestName
     {

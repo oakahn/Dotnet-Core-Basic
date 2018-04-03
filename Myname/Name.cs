@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Myname
+namespace Todsphol.Myname
 {
     public class Name
     {

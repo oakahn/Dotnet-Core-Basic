@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Todsphol.Myname</id>
+    <version>1.0.0</version>
+    <authors>Todsphol Wongchomphu</authors>
+    <owners>Todsphol Wongchomphu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Demo Package</description>
+    <copyright>Copyright 2018 (c) Todsphol Wongchomphu</copyright>
+    <tags>demo</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/bin/Debug/netstandard2.0/Myname.dll" target="lib/netstandard2.0/Myname.dll" />
+  </files>
+</package>

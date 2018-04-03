@@ -1676,14 +1676,14 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Myname/1.0.0": {
+      "Todsphol.Myname/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/Myname.dll": {}
+          "bin/placeholder/Todsphol.Myname.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Myname.dll": {}
+          "bin/placeholder/Todsphol.Myname.dll": {}
         }
       }
     }
@@ -5713,7 +5713,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Myname/1.0.0": {
+    "Todsphol.Myname/1.0.0": {
       "type": "project",
       "path": "../Myname/Myname.csproj",
       "msbuildProject": "../Myname/Myname.csproj"
@@ -5723,7 +5723,7 @@
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NET.Test.Sdk >= 15.5.0",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Myname >= 1.0.0",
+      "Todsphol.Myname >= 1.0.0",
       "xunit >= 2.3.1",
       "xunit.runner.visualstudio >= 2.3.1"
     ]
