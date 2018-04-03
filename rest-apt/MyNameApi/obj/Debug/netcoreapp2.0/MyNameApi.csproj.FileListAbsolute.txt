@@ -1,0 +1,10 @@
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.deps.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.runtimeconfig.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.runtimeconfig.dev.json
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/MyNameApi.pdb
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.csproj.CoreCompileInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfoInputs.cache
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfo.cs
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.pdb
