@@ -8,3 +8,5 @@
 /Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.AssemblyInfo.cs
 /Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.dll
 /Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/obj/Debug/netcoreapp2.0/MyNameApi.pdb
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/Myname.dll
+/Users/addyqu/Documents/course-PeeAu/dotnet-api/rest-apt/MyNameApi/bin/Debug/netcoreapp2.0/Myname.pdb

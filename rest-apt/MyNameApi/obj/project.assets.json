@@ -4746,6 +4746,16 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "Myname/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Myname.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Myname.dll": {}
+        }
       }
     }
   },
@@ -12526,12 +12536,18 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "Myname/1.0.0": {
+      "type": "project",
+      "path": "../../Myname/Myname.csproj",
+      "msbuildProject": "../../Myname/Myname.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Myname >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12561,7 +12577,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/Myname.csproj": {
+              "projectPath": "/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/Myname.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
