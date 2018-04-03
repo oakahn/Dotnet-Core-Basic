@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "e8198cbaa1c5de6ae07f3352e107b3b3c29f6d5f"
   },
   "compilationOptions": {
     "defines": [
@@ -25,7 +25,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.NETCore.App": "2.0.0",
-          "Myname": "1.0.0"
+          "Todsphol.Myname": "1.0.0"
         },
         "runtime": {
           "MyNameApi.dll": {}
@@ -3781,6 +3781,14 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
+      "Todsphol.Myname/1.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Myname.dll": {}
+        },
+        "compile": {
+          "lib/netstandard2.0/Myname.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
@@ -3793,14 +3801,6 @@
         },
         "compile": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "Myname/1.0.0": {
-        "runtime": {
-          "Myname.dll": {}
-        },
-        "compile": {
-          "Myname.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.0.0": {
@@ -5982,17 +5982,19 @@
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },
+    "Todsphol.Myname/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OnbF19QL4Ov4Rc29taP006Z+QBI3/CLxJ8TT4fkgJJSbciex9sl3qIY3BqKF1uTujsoLsv11vez1aTPEndoEXQ==",
+      "path": "todsphol.myname/1.0.0",
+      "hashPath": "todsphol.myname.1.0.0.nupkg.sha512"
+    },
     "WindowsAzure.Storage/8.1.4": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
-    },
-    "Myname/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",

@@ -4732,6 +4732,15 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "Todsphol.Myname/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Myname.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Myname.dll": {}
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "type": "package",
         "dependencies": {
@@ -4745,16 +4754,6 @@
         },
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
-        }
-      },
-      "Myname/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Myname.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Myname.dll": {}
         }
       }
     }
@@ -12515,6 +12514,16 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "Todsphol.Myname/1.0.1": {
+      "sha512": "bqNInit7+T5qSmFm838mYLnlOuoJl97EAkptLWj3HdQeTm9KWcnR/uFfLfzRB+J+ErfRMlix2MLd7BgGf8mvuw==",
+      "type": "package",
+      "path": "todsphol.myname/1.0.1",
+      "files": [
+        "lib/netstandard2.0/Myname.dll",
+        "todsphol.myname.1.0.1.nupkg.sha512",
+        "todsphol.myname.nuspec"
+      ]
+    },
     "WindowsAzure.Storage/8.1.4": {
       "sha512": "W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "type": "package",
@@ -12536,18 +12545,13 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
-    },
-    "Myname/1.0.0": {
-      "type": "project",
-      "path": "../../Myname/Myname.csproj",
-      "msbuildProject": "../../Myname/Myname.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Myname >= 1.0.0"
+      "Todsphol.Myname >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -12577,11 +12581,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/Myname.csproj": {
-              "projectPath": "/Users/addyqu/Documents/course-PeeAu/dotnet-api/Myname/Myname.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -12601,6 +12601,10 @@
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
+          },
+          "Todsphol.Myname": {
+            "target": "Package",
+            "version": "[1.0.1, )"
           }
         },
         "imports": [
